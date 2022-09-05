@@ -1,11 +1,12 @@
 {
-  "name": "@raae/gatsby-plugin-starter",
+  "name": "gatsby-source-pirate",
   "version": "1.6.2",
-  "author": "@raae",
-  "description": "A starter to bootstrap your next Gatsby Plugin — automatic release to npm with semantic-release out of the box 📦 🪄",
+  "author": "@olavea",
+  "description": "A gatsby plugin to source the pirate api",
   "keywords": [
     "gatsby",
-    "gatsby-plugin"
+    "gatsby-plugin",
+    "pirate"
   ],
   "main": "index.js",
   "publishConfig": {
@@ -16,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/queen-raae/gatsby-plugin-starter.git"
+    "url": "git+https://https://github.com/olavea/gatsby-source-pirate.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/queen-raae/gatsby-plugin-starter/issues"
+    "url": "https://https://github.com/olavea/gatsby-source-pirate/issues"
   },
-  "homepage": "https://github.com/queen-raae/gatsby-plugin-starter#readme",
+  "homepage": "https://https://github.com/olavea/gatsby-source-pirate#readme",
   "devDependencies": {},
   "dependencies": {},
   "peerDependencies": {
