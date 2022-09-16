@@ -25,7 +25,10 @@
   },
   "homepage": "https://https://github.com/olavea/gatsby-source-pirate#readme",
   "devDependencies": {},
-  "dependencies": {},
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "gatsby-plugin-utils": "^3.16.0"
+  },
   "peerDependencies": {
     "gatsby": "^3.0.0 || ^4.0.0"
   }
